@@ -14,7 +14,7 @@ function Home() {
       <div className="home-content">
         <div>
           <section className="hero">
-            <small style={{ marginTop: '4rem', marginBottom: '1rem' }}>A Uniswap project</small>
+            <small style={{ marginTop: '4rem', marginBottom: '1rem' }}>Maintained by Honeswap</small>
             <p className="title">Why tokens lists?</p>
 
             <p className="description" id="why-lists">
@@ -39,14 +39,14 @@ function Home() {
               and reputation, as well as perform actions of moderation. How can users tell credible projects from scams?
             </p>
             <p>
-              Uniswap is a token marketplace that faces the issues of token reputation directly. Until now, the Uniswap
-              team took on the responsibility of curating the tokens that show up in the Uniswap Interface. While this
-              was important to get the project off the ground and protect the users of Uniswap, having the Uniswap team
+              Honeyswap is a token marketplace that faces the issues of token reputation directly. Until now, the Honeyswap
+              team took on the responsibility of curating the tokens that show up in the Honeyswap Interface. While this
+              was important to get the project off the ground and protect the users of Honeyswap, having the Honeyswap team
               curate tokens that show up in the interface was never considered a viable long-term strategy.
             </p>
             <p>
               The ability to moderate token inclusion carries too much power and responsibility in a single gatekeeper.
-              That power residing solely in the Uniswap team was against the ethos of the protocol and the broader DeFi
+              That power residing solely in the Honeyswap team was against the ethos of the protocol and the broader DeFi
               ecosystem.
             </p>
             <h2>Enter Token lists</h2>
@@ -63,7 +63,7 @@ function Home() {
             <p>
               Token Lists is a new json schema standard that enables exactly this. Projects can encode lists of
               reputable tokens in a machine readable way. Anyone can make a list. These lists can then be imported into
-              the Uniswap interface.
+              the Honeyswap interface.
             </p>
             <p>
               We imagine Token Lists being an important building block for the Ethereum ecosystem to self-govern
